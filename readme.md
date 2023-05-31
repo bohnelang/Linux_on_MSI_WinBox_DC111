@@ -1,6 +1,6 @@
 # Linux on a MSI ThinClient WinBox DC111
 
-![Image Wind Box DC111](http://)
+![Image Wind Box DC111](https://github.com/bohnelang/Linux_on_MSI_WinBox_DC111/blob/c85f692ed0f6772d47f5b2c777f16c2cb262f399/msiwinboxdc111.jpg)
 
 ## Specification
 ```
