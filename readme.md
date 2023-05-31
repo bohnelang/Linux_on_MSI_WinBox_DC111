@@ -53,7 +53,7 @@ Without this you will get APIC errors and you cannot load f71882fg kernel module
 
 #### Modify definition (/etc/sensors3.conf)
 
-Replace the part of "f71808a-*" by this definition:
+Replace the part of "f71882fg-*" by this definition:
 
 
 ```
