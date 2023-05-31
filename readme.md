@@ -81,10 +81,12 @@ chip "f71808e-*" "f71808a-*" "f71862fg-*" "f71869-*" "f71869a-*" "f71882fg-*" \
 Then you should add the modules to /etc/modules
 
 #### Check modules (/etc/modules) and reboot
+```
 drivetemp
 coretemp
 f71882fg
 lm78
+```
 
 (The module drivertemp only on latest Linux kernel available. It displays the harddisk temperature like hdtemp.)
 
