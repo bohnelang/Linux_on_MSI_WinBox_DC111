@@ -3,6 +3,7 @@
 ![Image Wind Box DC111](http://)
 
 ## Specification
+```
 **CPU Intel Celeron 1037U Dual Core Processor
 Chipset Intel NM70
 Storage  2.5" SATAIII 6Gb/s 
@@ -29,6 +30,7 @@ AC Adapter / PSU AC Adaptor 40W
 Volume 1 Liter
 Dimension (WxDxH) 191.8 X 150.93 X 34.94mm
 WEIGHT (N.W./ G.W.) 900g
+```
 
 ## Linux on this computer
 For best hardware recognition you need to adopt your linux configuration:
